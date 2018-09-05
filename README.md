@@ -9,3 +9,6 @@
  - Blurs some images and adds text to them
  - Data rescue
  - Sending key to server
+
+### Donate 
+> 37uJbkMU5jrZqv8sjn39K5StufaMPFGPH7
